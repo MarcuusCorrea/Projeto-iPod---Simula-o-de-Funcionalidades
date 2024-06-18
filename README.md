@@ -1,6 +1,6 @@
-# Projeto iPod - Simulação de Funcionalidades
+# Projeto iPhone - Simulação de Funcionalidades
 
-Este projeto simula um conjunto de funcionalidades inspiradas em um iPod, incluindo uma galeria de fotos, gerenciamento de e-mails, reprodução de músicas e vídeos, navegação na internet, telefone e widgets.
+Este projeto simula um conjunto de funcionalidades inspiradas em um iPhone, incluindo uma galeria de fotos, gerenciamento de e-mails, reprodução de músicas e vídeos, navegação na internet, telefone e widgets.
 
 ## Estrutura do Projeto
 
